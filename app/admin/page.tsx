@@ -47,6 +47,8 @@ interface GamePlay {
    played_at: string;
    awarded_by_email: string;
 }
+//test branch
+//test again
 
 // Define super admin emails - these users can manage ALL games
 const SUPER_ADMINS = ['stern.hari@gmail.com', 'hannah.elisabet.stern@gmail.com']; // Add your super admin email here
